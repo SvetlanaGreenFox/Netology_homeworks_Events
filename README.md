@@ -7,3 +7,7 @@
 В случае промаха - Игроку объявляется о проигрыше и предлагается начать заново.
 
 https://svetlanagreenfox.github.io/Netology_homeworks_Events/
+
+---
+permalink: /index.html
+---
